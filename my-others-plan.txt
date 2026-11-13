@@ -3,3 +3,4 @@ My Others Plan
 -learn API
 -ruby
 -AI
+-Vue
