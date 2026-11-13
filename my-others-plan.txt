@@ -1,2 +1,3 @@
 My Others Plan
 -learn Phyton
+-learn API
