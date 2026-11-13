@@ -1,3 +1,6 @@
 My Others Plan
 -learn Phyton
 -learn API
+-ruby
+-AI
+-Vue
